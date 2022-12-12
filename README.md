@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tom
+- 👋 Hi, I’m Tom
 - 🌱 I’m currently learning WebDev @ DCI 
 ---
 ## Languages and Tools:
