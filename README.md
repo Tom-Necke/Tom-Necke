@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Tom
 - 👀 I’m interested in gaming | reading | Nature
-- 🌱 I’m currently learning WebDev @ DCI 
 - 💞️ I'm not sure yet who I would like to work with, but what is important to me at this point is sustainability and an overall ecological view.
 - 📫 How to reach me: tomnecke.oac@gmail.com
 ---
